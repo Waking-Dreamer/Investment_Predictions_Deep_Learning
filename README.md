@@ -6,7 +6,7 @@ This project creates a machine learning model that will be able to predict the s
 
 The data, once read into a dataframe, can be viewed below:
 
-![Datas](Images\Data)
+![Data](Images/Data)
 
 # Conclusion
 
