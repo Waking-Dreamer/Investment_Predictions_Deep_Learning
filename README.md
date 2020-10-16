@@ -6,7 +6,7 @@ This project creates a machine learning model that will be able to predict the s
 
 The data, once read into a dataframe, can be viewed below:
 
-![Data](Images/Data)
+![Data](https://github.com/Waking-Dreamer/Deep_Learning_Funding_Orginizations/blob/master/Images/Data.png)
 
 # Conclusion
 
