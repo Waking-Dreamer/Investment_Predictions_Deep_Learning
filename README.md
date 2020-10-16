@@ -8,6 +8,10 @@ The data, once read into a dataframe, can be viewed below:
 
 ![Data](https://github.com/Waking-Dreamer/Deep_Learning_Funding_Orginizations/blob/master/Images/Data.png)
 
+# Running Instructions
+
+To run this code, open and run the Jupyter Notebook file Investment_Prediction_Deep_Learning.ipynb. This code references the charity_data.csv file located in the Resources folder.
+
 # Conclusion
 
 In an attempt to achieve target model performance, several different changes were tested. During the data processing phase, different binning amounts were explored. The higher the bin threshold, the lower the accuracy. During the model creation and testing phases, several different configurations were tested in an attempt to improve model accuracy. At first, a single neural layer network was tested. Different testing layers, node amounts, activation functions, and epochs were tested. Greater model complexity did not improve the accuracy rate. 
