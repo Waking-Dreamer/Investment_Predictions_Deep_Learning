@@ -1,6 +1,6 @@
 # Overview
 
-This project creates a machine learning model that will be able to predict the success of investing in a business venture. The CSV data file used for this project contains more than 34,000 organizations that have received various amounts of funding and the outcome of the invest (status of successful or unsuccessful). The data file is imported, processed, encoded, and standardized. The machine learning model is then trained, tested, and optimized to be able to predict if a future investment will be successful.
+This project creates a machine learning model that will be able to predict the success of investing in a business venture. The CSV data file used for this project contains more than 34,000 organizations that have received various amounts of funding and the outcome of the investment (status of successful or unsuccessful). The data file is imported, processed, encoded, and standardized. The machine learning model is then trained, tested, and optimized to be able to predict if a future investment will be successful.
 
 # Data
 
